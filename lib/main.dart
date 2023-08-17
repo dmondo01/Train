@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'view/homePage.dart';
+import 'view/mapView.dart';
 
 void main() {
   runApp(
@@ -11,6 +12,7 @@ void main() {
         ),
         routes: {
           '/' : (context) => const HomePage(title: 'My Train'),
+          '/map' : (context) => const MapView(),
         },
         initialRoute: '/',
       )

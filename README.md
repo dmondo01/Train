@@ -13,6 +13,7 @@ git clone https://github.com/dmondo01/Train.git
 
 ## Use
 1. [Request an API key from SNCF](https://numerique.sncf.com/startup/api/token-developpeur/)
-2. Copy the key in lib>api_key.dart
+2. Copy the SNCF key in lib>api_key.dart
 3. [Request an API key from Google](https://console.cloud.google.com/google/maps-apis)
-4. Copy the key in lib>api_key.dart
+4. Copy the Google key in lib>api_key.dart
+5. Copy the Google Key in ios>Runner>AppDelegate.swift
