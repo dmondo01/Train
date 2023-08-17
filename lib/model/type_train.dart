@@ -1,0 +1,14 @@
+enum TypeTrain {
+  TER,
+  TER_NA,
+  TER_HDF,
+  TGV_INOUI,
+  TGV_Lyria,
+  INTERCITES,
+  OUIGO,
+  RER,
+  TRANSILIEN,
+  DB_SNCF,
+  EUROSTAR,
+  UNKNOWN
+}
