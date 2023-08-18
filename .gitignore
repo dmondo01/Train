@@ -43,10 +43,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# API Key
-lib/api_key.dart
-ios/Runner/AppDelegate.swift
-
 .metadata/
 
 
