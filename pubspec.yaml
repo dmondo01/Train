@@ -19,7 +19,7 @@ description: Find information about your train or station in France
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.19.4 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -38,7 +38,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   csv: ^5.0.1
   autocomplete_textfield: ^2.0.1
-  google_maps_flutter: ^2.2.5
+  google_maps_flutter: ^2.4.0
+  google_maps_flutter_ios: ^2.2.3
   google_maps_utils: ^1.5.0+0
   flutter_polyline_points: ^1.0.0
 
